@@ -107,3 +107,5 @@ features, and performance improvements.
 ### Third party notices
 This software includes components from third parties. For a full list of these components and their licenses, see the [THIRD PARTY NOTICES file](ThirdPartyNotices.txt).
 
+## ZkSync is the Endgame
+
